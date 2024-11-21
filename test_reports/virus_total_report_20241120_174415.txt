@@ -1,0 +1,18 @@
+Start time: 2024-11-20 17:44:15
+
+Flagged hash: ca70c302c46f3b43ae900ac5ea68e1a0
+
+File Type: Win32 EXE
+File Size: 646864
+Types: ['executable', 'windows', 'win32', 'pe', 'peexe']
+Known Names: 0krWm1mNl.bmp, 062l.docm
+Detection Ratio: 64/77
+For more information, visit https://virustotal.com/gui/file/f4e1d1084c50349701e341320ba947a34129153babc32fed5890ff4a4772717d
+
+Total scanned hashes: 1
+Total flagged hashes: 1
+
+End time: 2024-11-20 17:44:15
+
+Scan time: 0:00:00.482809
+
